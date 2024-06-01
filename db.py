@@ -41,5 +41,5 @@ class Database:
 
 
 # db = Database('addressbook.db')
-# db.insert("mahmood", "muhammed", "kurdistan", "erbil", "40 meter ,erbil", "manmon@gmail.com", "07508887766", "byaraty")
+# db.insert("katrin", "muhammed", "kurdistan", "suly", "salm", "manmon@gmail.com", "07508887766", "byaraty")
 
