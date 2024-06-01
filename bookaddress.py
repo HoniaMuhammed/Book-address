@@ -8,13 +8,11 @@ from db import Database
 
 db = Database('addressbook.db')
 
-# Create window object
 window = tk.Tk()
 window.title('Address Book')
 window.geometry('1400x750')
 window.configure(bg="#333333")
 
-# Create a Frame for login
 Login_Frame = tk.Frame(window, bg="#333333")
 Login_Frame.pack(pady=20)
 
